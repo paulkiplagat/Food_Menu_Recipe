@@ -3,7 +3,7 @@ import React from "react";
 function Filter({handleFilter}) {
   return (
     <div>
-      <h4> Filter By Different Food Categories </h4>
+      <h4> Filter By Food Category </h4>
       <select
         placeholder="categories"
         onChange={handleFilter}
