@@ -5,7 +5,7 @@ import Filter from "./Filter"
 import Search from "./Search"
 import RecipeDetail from "./RecipeDetail"
 
-const apiKey = '85f445f6ae634ae99bfc878b2dbf5075'
+const apiKey = 'c937d25df9db46c089240ddb5e6f3021'
 
 function YourFoodPreference() {
   const [searchTerm, setSearchTerm] = useState("");

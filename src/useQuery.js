@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const apiKey = '85f445f6ae634ae99bfc878b2dbf5075'
+const apiKey = 'c937d25df9db46c089240ddb5e6f3021'
 
 function useQuery() {
   const [category, setCategory] = useState("burger");
